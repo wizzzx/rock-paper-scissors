@@ -1,1 +1,1 @@
-Rock Paper Scissors minigame. Played entirely in console. 
+Rock Paper Scissors minigame.
